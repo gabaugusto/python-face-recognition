@@ -1,2 +1,27 @@
-# python-face-recognition
-Python recognizing faces with OpenCV // Reconhecimento facial em Python usando OpenCV
+# Python-Face-Recognition
+Python recognizing faces with OpenCV 
+I recommend to all to look this project first: https://github.com/gabaugusto/python-face-recognition
+
+# Python-Face-Recognition
+Reconhecimento facial em Python usando OpenCV
+Eu recomendo a todos a ver este repositório primeiro: https://github.com/gabaugusto/python-face-recognition
+
+## Getting Started
+
+1. Download All Files. 
+2. If needed, install OpenCV: pip install opencv-python.
+3. Run. 
+
+## Começando. 
+
+1. Baixe todos os arquivos.
+2. Se necessário, instale o OpenCV: pip install opencv-python.
+3. Rode.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Licença 
+
+Este projeto é distribuído sob o MIT License - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
