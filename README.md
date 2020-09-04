@@ -1,10 +1,8 @@
 # Python-Face-Recognition
 Python recognizing faces with OpenCV 
-I recommend to all to look this project first: https://github.com/gabaugusto/python-face-recognition
 
 # Python-Face-Recognition
 Reconhecimento facial em Python usando OpenCV
-Eu recomendo a todos a ver este repositório primeiro: https://github.com/gabaugusto/python-face-recognition
 
 ## Getting Started
 
