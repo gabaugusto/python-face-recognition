@@ -1,8 +1,6 @@
-# Python-Face-Recognition
-Python recognizing faces with OpenCV 
+# Python recognizing faces and movements with OpenCV
 
-# Python-Face-Recognition
-Reconhecimento facial em Python usando OpenCV
+# Reconhecimento facial e de movimento em Python usando OpenCV
 
 ## Getting Started
 
