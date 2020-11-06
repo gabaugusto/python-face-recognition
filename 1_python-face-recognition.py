@@ -2,7 +2,7 @@ import time
 import cv2
 
 #The goal here is just to pick a image and put a blue square over the face. Pretty simple. 
-#O Objetivo aqui é só encontrar alguns rostos em algumas mensagens.
+#O Objetivo aqui é só encontrar alguns rostos em algumas imagens.
 
 #CascadeClassifier
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
